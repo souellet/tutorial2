@@ -3,7 +3,8 @@ package main
 import (
 	"fmt"
 	"time"
-	"tutorial2/our_packages/add"
+
+	"github.com/souellet/tutorial2/our_packages/add"
 )
 
 func main() {
